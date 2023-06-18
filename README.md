@@ -15,5 +15,5 @@ Subplots: Use subplots in Matplotlib to create multiple visualizations in a sing
 
 Data Analysis: Apply appropriate calculations and transformations to derive insights from the stock data, such as daily price change, daily returns, and risk analysis.
 
-Data Visualization: Utilize Matplotlib to create clear and informative visualizations for each task, including line plots, bar charts, and subplots.#
+Data Visualization: Utilize Matplotlib to create clear and informative visualizations for each task, including line plots, bar charts, and subplots.
 
